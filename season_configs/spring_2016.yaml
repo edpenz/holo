@@ -52,6 +52,7 @@ info:
 streams:
     crunchyroll: ''
     funimation: http://www.funimation.com/shows/my-hero-academia/home
+    animelab: http://www.animelab.com/shows/my-hero-academia
 ---
 title: Bungou Stray Dogs
 type: tv
@@ -74,6 +75,7 @@ info:
 streams:
     crunchyroll: ''
     funimation: http://www.funimation.com/shows/concrete-revolutio
+    animelab: http://www.animelab.com/shows/concrete-revolutio|13
 ---
 title: Endride
 type: tv
@@ -107,6 +109,7 @@ info:
 streams:
     crunchyroll: http://www.crunchyroll.com/the-asterisk-war|12
     funimation: http://www.funimation.com/shows/the-asterisk-war|12
+    animelab: http://www.animelab.com/shows/the-asterisk-war|12
 ---
 title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! (Ace Attorney)'
 type: tv
@@ -195,6 +198,7 @@ info:
 streams:
     crunchyroll: ''
     funimation: http://www.funimation.com/shows/kumamiko/home
+    animelab: http://www.animelab.com/shows/kuma-miko-girl-meets-bear
 ---
 title: Kuromukuro
 type: tv
@@ -217,6 +221,7 @@ info:
 streams:
     crunchyroll: http://www.crunchyroll.com/rin-ne|25
     funimation: ''
+    animelab: https://www.animelab.com/shows/rinne|25
 ---
 title: Mayoiga
 type: tv
@@ -283,6 +288,7 @@ info:
 streams:
     crunchyroll: ''
     funimation: http://www.funimation.com/shows/three-leaves-three-colors/home
+    animelab: http://www.animelab.com/shows/three-leaves-three-colors-sansha-sanyo
 ---
 title: 'Seisen Cerberus: Ryuukoku no Fatalités'
 type: tv
@@ -327,6 +333,7 @@ info:
 streams:
     crunchyroll: http://www.crunchyroll.com/tanaka-kun-is-always-listless
     funimation: ''
+    animelab: http://www.animelab.com/shows/tanaka-kun-is-always-listless
 ---
 title: Terra Formars Revenge
 type: tv
@@ -360,6 +367,7 @@ info:
 streams:
     crunchyroll: http://www.crunchyroll.com/ushio-and-tora|26
     funimation: ''
+    animelab: http://www.animelab.com/shows/ushio-and-tora|26
 ---
 title: Wagamama High Spec
 type: tv
@@ -427,6 +435,7 @@ info:
 streams:
     crunchyroll: ''
     funimation: http://www.funimation.com/shows/assassination-classroom/home|22
+    animelab: http://www.animelab.com/shows/assassination-classroom|22
 ---
 title: Super Lovers
 type: tv
