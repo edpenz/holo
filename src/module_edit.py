@@ -101,7 +101,7 @@ def _edit_with_file(db, edit_file):
 					else:
 						service = db.get_service(key=service_key)
 						s = db.get_stream(service_tuple=(service, show_key))
-						db.update_stream(s, show_key=show_key, remote_offset=remote_offset, commit=False)
+						db.update_stream(s, show=show_id, show_key=show_key, remote_offset=remote_offset, commit=False)
 				else:
 					error("    Stream handler not installed")
 			
